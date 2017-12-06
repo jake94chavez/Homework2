@@ -17,3 +17,9 @@
 
 ---
 
+1. git branch new_branch
+2. git checkout `<branch>`
+3. One may use a branch other than the default master branch so that they can edit and commit new versions of the code, without altering or breaking the master.
+
+---
+
