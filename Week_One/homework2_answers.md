@@ -1,28 +1,19 @@
 # Homework 2
 
-<h1> Part 1 </h1>
+## Part 1 
 
-<ol>
-	<li> git init </li>
-	<li> git add file_name.txt</li>
-	<li> git commit -m 'important message'</li>
-</ol>
 
-<ol>
-	<li> </li>
-	<li> </li>
-	<li> </li>
-	<li> </li>
-	<li> </li>
-</ol>
+1. git init
+2. git add file_name.txt
+3. git commit -m 'important message'
 
-<ol>
-	<li> </li>
-	<li> </li>
-	<li> </li>
-</ol>
+---
 
-<ol>
-	<li> </li>
-	<li> </li>
-</ol>
+1. git pull origin master
+2. git reset some_directory/file_to_remove.txt
+3. git checkout -- `<target>`
+4. the double hyphens seperate options from a path
+5. One may want to reset files back to a previous commit to restore code to a previous state in cases where the changes broke the code
+
+---
+
