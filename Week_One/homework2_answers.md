@@ -23,3 +23,8 @@
 
 ---
 
+1. I think a merge is better when you are working on a project alone or you have tested and know that the code works and is ready to go back into the master branch. A pull request would be better when you are working with a team and want someone else to examine and test the code before it is added to the master branch.
+2. git push
+
+---
+
